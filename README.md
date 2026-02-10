@@ -1,6 +1,6 @@
 # wpgereksizfotobul
 Yereldeki Wordpress siteyi tarar, sitede kullanılmayan görsel dosyaları bulur, metin dosyası olarak kaydeder.
-
+[ Wordpress'i yerelde çalıştırmak isterseniz yapmanız gereken LocalWP (localwp.com) kurmak we sitenizin yedeğini istediğiniz eklenti ile yerele aktarmaktır. ]
 ---
 
 # Eksik Görsel Tespit Aracı (eksik-foto-bul.py)
