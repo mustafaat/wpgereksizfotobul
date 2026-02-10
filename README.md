@@ -1,10 +1,6 @@
 # wpgereksizfotobul
 Yereldeki Wordpress siteyi tarar, sitede kullanılmayan görsel dosyaları bulur, metin dosyası olarak kaydeder.
 
-Harika bir araç. Paylaştığın `eksik-foto-bul.py` dosyasını detaylıca analiz ettim. Bu script, özellikle WordPress tabanlı sitelerin statik kopyalarını oluşturduğunda veya site taşıma işlemlerinde meydana gelen "kırık görsel" sorununu tespit etmek için oldukça verimli bir çözüm sunuyor.
-
-Aşağıda, projenin GitHub standartlarına uygun olarak hazırlanmış profesyonel **README.md** dosyasını bulabilirsin:
-
 ---
 
 # Eksik Görsel Tespit Aracı (eksik-foto-bul.py)
